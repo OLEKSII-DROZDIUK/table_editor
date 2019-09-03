@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.text-center {
+  border:none;
+  width: 100%;
+}
+
+.files-loader {
+  padding:4rem;
+  text-align: center;
+}
+
+.savejson {
+  font-size:0.8rem;
+}
